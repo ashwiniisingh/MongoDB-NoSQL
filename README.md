@@ -121,7 +121,7 @@ db.courses.updateOne(
 ---
 
 ## 📄 Assignment File
-NoSQL_Assignment.pdf  
+NoSQL_Assignment.docx
 
 ---
 
