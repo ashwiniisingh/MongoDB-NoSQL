@@ -1,4 +1,4 @@
-📊 MongoDB / NoSQL Assignment
+# 📊 MongoDB / NoSQL Assignment
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
 ![NoSQL](https://img.shields.io/badge/Type-NoSQL-blue)
@@ -121,7 +121,7 @@ db.courses.updateOne(
 ---
 
 ## 📄 Assignment File
-NoSQL_Assignment_Vikas_Yadav.pdf  
+NoSQL_Assignment.pdf  
 
 ---
 
@@ -141,7 +141,7 @@ NoSQL_Assignment_Vikas_Yadav.pdf
 ---
 
 ## 📬 Contact
-GitHub: https://github.com/Vikas-Yadav-6696  
+GitHub: https://github.com/ashwiniisingh
 
 ---
 
