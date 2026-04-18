@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🎓 Student Details
-- **Name:** Ashwini Singh
+- **Name:** Ashwini Kumar Singh
 - **Course:** MCA (Data Science & AI)  
 - **Class:** MCADS11  
 - **Roll No:** 1250259012
